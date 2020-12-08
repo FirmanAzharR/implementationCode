@@ -1,2 +1,2 @@
-# tugasJavascript4
-tugas ke 2 minggu 3
+# javascriptTask
+Task 2 week 3 about node.js , logic
